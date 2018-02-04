@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alif Noorachmad M_1202154126_Modul1</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="dengan_melia">dengan Melia</string>
+    <string name="nasi_uduk">Nasi Uduk</string>
+    <string name="_2">2</string>
+    <string name="eatbus">Eatbus</string>
+    <string name="abnormal">Abnormal</string>
+    <string name="menu">Menu</string>
+    <string name="porsi">Porsi</string>
+    <string name="harga">Harga</string>
+</resources>
